@@ -1,16 +1,15 @@
-#Blog API
+# Blog API
 Let’s make our small blog API.
 The goal of this exercises is to get familiar with setting up an Express && Mongoose project.
 Here is some step by step instructions.
 
-
-[ ] Setup a simple server with Express
-[ ] Setup a database connection with Mongoose
-[ ] Create two data models, one for Users and one for Posts
+- [ ] Setup a simple server with Express
+- [ ] Setup a database connection with Mongoose
+- [ ] Create two data models, one for Users and one for Posts
     Users -> firstname, lastname, password, username, email
     Posts -> user_id, title, text, date, image
-[ ] Create CRUD(Create Read Update Delete) endpoints for each of the data models. Please set up your project so you have routes and controllers in different locations.
-[ ] Write a seed script that will fill your db with 20 users and 5 posts per user.
+- [ ] Create CRUD(Create Read Update Delete) endpoints for each of the data models. Please set up your project so you have routes and controllers in different locations.
+- [ ] Write a seed script that will fill your db with 20 users and 5 posts per user.
 
 
 SPOILERS
